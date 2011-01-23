@@ -1,4 +1,5 @@
-This UIView Categorie (Extend) will allow you to rotate a view easly 360°
+This UIView Categorie (Extend) will allow you to shake a view
+
 Example:
 ---
 [aView shakeXWithOffset:40.0 breakFactor:0.85 duration:1.5 maxShakes:30];
