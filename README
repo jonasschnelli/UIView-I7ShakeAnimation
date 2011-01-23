@@ -1,0 +1,41 @@
+This UIView Categorie (Extend) will allow you to rotate a view easly 360°
+Example:
+---
+[aView shakeXWithOffset:40.0 breakFactor:0.85 duration:1.5 maxShakes:30];
+or
+[aView shakeX];
+---
+
+Version
+=======
+0.10
+
+License
+=======
+BSD
+
+Changelog
+==========
+12/01/2010 – Version 0.1 - package started
+
+
+Author
+======
+Jonas Schnelli / include7 AG - www.include7.ch
+
+
+		     	_            __          __  _____
+			   (_)___  _____/ /_  ______/ /_/__  /
+			  / / __ \/ ___/ / / / / __  / _ \/ /
+			 / / / / / /__/ / /_/ / /_/ /  __/ /
+			/_/_/ /_/\___/_/\__,_/\__,_/\___/_/........
+
+		
+
+URL
+===
+http://github.com/jonasschnelli/UIView-I7ShakeAnimation
+
+Info
+====
+Have fun while using and extending this package.
